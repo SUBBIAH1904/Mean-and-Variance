@@ -15,7 +15,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ![image](https://user-images.githubusercontent.com/103921593/192938695-99fedc01-34d5-4d36-84df-5880e766ed0c.png)
 
-# Procedure :
+### Procedure :
 1. Construct frequency distribution for the data
 2. Find the  probability distribution from frequency distribution.
 3. Calculate mean using 
@@ -36,8 +36,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ### Program :
 
-## Name : S.SUBBIAH
-## REGISTER NUMBER: 212223220111
+### Name : S.SUBBIAH
+### REGISTER NUMBER: 212223220111
 ```
 import numpy as np
 L=[int(i) for i in input().split()]
